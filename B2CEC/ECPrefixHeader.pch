@@ -1,0 +1,24 @@
+//
+//  ECPrefixHeader.pch
+//  B2CEC
+//
+//  Created by Tristan on 16/6/30.
+//  Copyright © 2016年 Tristan. All rights reserved.
+//
+
+#ifndef ECPrefixHeader_pch
+#define ECPrefixHeader_pch
+#ifdef __OBJC__
+
+#import "CMImportMacro.h"
+#import "CMColorMacro.h"
+#import "CMUtilsMacro.h"
+#import "CMNotificationMacro.h"
+#import "CMCacheMacro.h"
+#import "CMPublicDataManager.h"
+#import "CMLocationManager.h"
+#import "CMWorksTypeDataManager.h"
+
+#endif
+
+#endif /* ECPrefixHeader_pch */

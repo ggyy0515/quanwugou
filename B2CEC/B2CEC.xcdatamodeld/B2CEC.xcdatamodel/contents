@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11759" systemVersion="16C67" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="ECPublicDataModel" representedClassName="ECPublicDataModel" syncable="YES" codeGenerationType="class">
+        <attribute name="caseShareUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="hotline" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="hotlineId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageHeader" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="informationShareUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="productShareUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="timeStamp" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="ECPublicDataModel" positionX="-63" positionY="-18" width="128" height="150"/>
+    </elements>
+</model>
